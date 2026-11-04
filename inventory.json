@@ -1,0 +1,27 @@
+{
+    "P001": {
+        "name": "Wireless Mouse",
+        "price": 1200.0,
+        "quantity": 15
+    },
+    "P002": {
+        "name": "USB Keyboard",
+        "price": 1800.0,
+        "quantity": 6
+    },
+    "P003": {
+        "name": "USB-C Cable",
+        "price": 450.0,
+        "quantity": 10
+    },
+    "P004": {
+        "name": "Charger",
+        "price": 1000.0,
+        "quantity": 0
+    },
+    "P005": {
+        "name": "Cable",
+        "price": 250.0,
+        "quantity": 5
+    }
+}
